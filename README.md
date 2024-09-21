@@ -14,10 +14,10 @@ To run the project in local.
 yarn dev
 ```
 
-To run the tests
+To run the e2e tests, first run the project using above commands and then run below mentioned command.
 
 ```
-yarn cy:open
+yarn e2e
 ```
 
 ## Live Link
